@@ -89,7 +89,7 @@ public class Main {
 			System.out.println("Interest rate is: " + resultLoan.getInterestRate());
 			System.out.println("Monthly repayment is: " + resultLoan.getMonthlyRepayment());
 		} else {
-			System.out.println("Loan has been approved.");
+			System.out.println("Loan has not been approved.");
 		}
 
 	}
